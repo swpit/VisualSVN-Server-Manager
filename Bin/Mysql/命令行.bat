@@ -1,0 +1,1 @@
+bin\mysql -u root -pMagic1234

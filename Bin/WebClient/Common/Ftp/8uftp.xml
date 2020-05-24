@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<8uftp>
+<Settings>
+<Item name="Tool Normal Start" type="numeric">0</Item>
+<Item name="Last Server Host" type="string">dx.dl1234.com</Item>
+<Item name="Last Server Port" type="numeric">3912</Item>
+<Item name="Last Server User" type="string">0</Item>
+<Item name="Last Server dont save pass" type="numeric">0</Item>
+<Item name="Last server name" type="string"></Item>
+<Item name="Last Server Pass" type="string">101</Item>
+<Item name="Last Server Firewall Bypass" type="numeric">0</Item>
+<Item name="Last Server Path" type="string"></Item>
+<Item name="Last Server Type" type="numeric">256</Item>
+<Item name="Last Server transfer mode" type="numeric">0</Item>
+<Item name="Default Folder" type="string">D:\</Item>
+<Item name="Last Window Size" type="string">1 250 324 1866 1200</Item>
+<Item name="Last Splitter Pos" type="string">430 597 723 866 723</Item>
+<Item name="Pasv" type="numeric">1</Item>
+</Settings>
+<RecentServers>
+<Server Host="swpit.f3322.org" Port="21" User="wpsong" Pass="060033047041084064094085091" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.123" Port="21" User="wpsong" Pass="007059045042096006000003" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.123" Port="21" User="wpsong@aostarit.com" Pass="007059045042096006000003" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.123" Port="21" User="admin" Pass="029053047067024115006005007003" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.123" Port="21" User="Administrator" Pass="115003071065087069022112100107114117116114" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.123" Port="21" User="aostarit\wpsong" Pass="007059045042096006000003" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="dx.dl1234.com" Port="3912" User="0" Pass="101" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+</RecentServers>
+<TransferQueue/>
+</8uftp>

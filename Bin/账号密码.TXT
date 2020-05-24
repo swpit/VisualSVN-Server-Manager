@@ -1,0 +1,2 @@
+MySQL数据库：root/Magic.1234
+SVN分级授权工具：laoxiami/Magic.1234
